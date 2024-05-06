@@ -1,3 +1,108 @@
+--------- cipher letter Frequency ----------
+a  7.63547 %
+c  8.13 %
+d  8.87 %
+e  5.42 %
+f  7.39 %
+g  4.68 %
+h  1.48 %
+i  11.33 %
+j  0.25 %
+k  4.68 %
+l  0.74 %
+m  1.72 %
+n  3.94 %
+o  2.71 %
+p  7.88 %
+q  3.69 %
+r  5.67 %
+s  0.25 %
+t  2.71 %
+u  3.20 %
+v  3.20 %
+w  1.97 %
+x  2.46 %
+--------- plain letter Frequency ----------
+ Plain letter Frequency --  
+a  8.05 %
+ Plain letter Frequency --  
+b  1.67 %
+ Plain letter Frequency --  
+c  2.23 %
+ Plain letter Frequency --  
+d  5.10 %
+ Plain letter Frequency --  
+e  12.22 %
+ Plain letter Frequency --  
+f  2.14 %
+ Plain letter Frequency --  
+g  2.30 %
+ Plain letter Frequency --  
+h  6.62 %
+ Plain letter Frequency --  
+i  6.28 %
+ Plain letter Frequency --  
+j  0.19 %
+ Plain letter Frequency --  
+k  0.95 %
+ Plain letter Frequency --  
+l  4.08 %
+ Plain letter Frequency --  
+m  2.33 %
+ Plain letter Frequency --  
+n  6.95 %
+ Plain letter Frequency --  
+o  7.63 %
+ Plain letter Frequency --  
+p  1.66 %
+ Plain letter Frequency --  
+q  0.06 %
+ Plain letter Frequency --  
+r  5.29 %
+ Plain letter Frequency --  
+s  6.02 %
+ Plain letter Frequency --  
+t  9.67 %
+ Plain letter Frequency --  
+u  2.92 %
+ Plain letter Frequency --  
+v  0.82 %
+ Plain letter Frequency --  
+w  2.60 %
+ Plain letter Frequency --  
+x  0.11 %
+ Plain letter Frequency --  
+y  2.04 %
+ Plain letter Frequency --  
+z  0.06 %
+--------- frequency compare ----------
+mapped - a -> I
+mapped - b -> u
+mapped - c -> T
+mapped - d -> O
+mapped - e -> H
+mapped - f -> N
+mapped - g -> D
+mapped - h -> B
+mapped - i -> E
+mapped - j -> Q
+mapped - k -> R
+mapped - l -> K
+mapped - m -> G
+mapped - n -> L
+mapped - o -> M
+mapped - p -> A
+mapped - q -> C
+mapped - r -> S
+mapped - s -> E
+mapped - t -> W
+mapped - u -> F
+mapped - v -> U
+mapped - w -> Y
+mapped - x -> P
+mapped - y -> d
+mapped - z -> b
+--------- Decoding ----------
 IN A PARTICULAR AND, IN EACH CASE, DIFFERENT WAY, THESE FOUR WERE INDISPENSABLE TO HIM-
 -YUGO AMARYL, BECAUSE OF HIS QUICK UNDERSTANDING OF THE PRINCIPLES OF PSYCHOHISTORY AND
 OF HIS IMAGINATIEE PROBINGS INTO NEW AREAS. IT WAS COMFORTING TO KNOW THAT IF ANYTHING
