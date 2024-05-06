@@ -74,10 +74,10 @@ I got the following images and it is impossible to see any useful information fr
 <br><br>
 
 ECB mode: <br>
-<img src="./images/Task2/cbc.png" alt="encrypted_ecb" width="500"/>
+<img src="./images/Task2/cbc.png" alt="encrypted_cbc" width="500"/>
 <br><br>
 CBC mode: <br>
-<img src="./Images/Task2/ecb.png" alt="encrypted_cbc" width="500"/>
+<img src="./Images/Task2/ecb.png" alt="encrypted_ecb" width="500"/>
 
 **Observations:** <br>
 
