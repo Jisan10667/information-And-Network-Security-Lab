@@ -1,0 +1,27 @@
+# Observations on Hash Algorithms
+
+In this notebook, I have generated hash values for a text file using different one-way hash algorithms (MD5, SHA-256, and SHA-512). Here are my observations:
+
+## MD5 Algorithm
+
+- Length of Hash: 32 characters
+- Uniqueness: MD5 produces a 128-bit hash value, resulting in a relatively high likelihood of hash collisions.
+- Computational Complexity: MD5 is fast and computationally less intensive compared to SHA-256 and SHA-512.
+
+MD5 Hash Value: ae03a9da1fbedfa8f8e143404c08f2ea
+
+## SHA-256 Algorithm
+
+- Length of Hash: 64 characters
+- Uniqueness: SHA-256 produces a 256-bit hash value, which significantly reduces the likelihood of hash collisions compared to MD5.
+- Computational Complexity: SHA-256 is more computationally intensive compared to MD5 but provides better security.
+
+SHA-256 Hash Value: a650c3f4ec41c556ff153c0a7abce54062e1c380fe38b5912d49144f6c4f338f
+
+## SHA-512 Algorithm
+
+- Length of Hash: 128 characters
+- Uniqueness: SHA-512 produces a 512-bit hash value, which further reduces the likelihood of hash collisions.
+- Computational Complexity: SHA-512 is the most computationally intensive among the three algorithms but offers the highest level of security.
+
+SHA-512 Hash Value: bb1c7821de8ecb82786875d5fec1bc0964c1478bfe630d617009f2d500509a6bc7be6f95adb576bef505c93eb145800d61243c338bf82b3a6db841fb30f56ea9

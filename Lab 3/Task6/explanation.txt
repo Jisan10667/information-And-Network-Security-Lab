@@ -1,0 +1,24 @@
+
+Task 6: Keyed Hash and HMAC
+In this task, keyed hashes (HMAC) were generated for a text file using HMAC-MD5, HMAC-SHA256, and HMAC-SHA1 algorithms with a randomly generated key.
+
+Commands Used
+HMAC-MD5
+Key: f4b7327bba32a6d81bdea92bcedec9383520fdd40ad24a4ac94177fe56e8a040
+Command: openssl dgst -hmac f4b7327bba32a6d81bdea92bcedec9383520fdd40ad24a4ac94177fe56e8a040 -md5 textfile.txt
+HMAC: 456548758fad3dd35ede4f6c7bf808ca
+HMAC-SHA256
+Key: f4b7327bba32a6d81bdea92bcedec9383520fdd40ad24a4ac94177fe56e8a040
+Command: openssl dgst -hmac f4b7327bba32a6d81bdea92bcedec9383520fdd40ad24a4ac94177fe56e8a040 -sha256 textfile.txt
+HMAC: dccbb773461e2699132d7adcf96c9cb12988f865d196b63cb09409257847a683
+HMAC-SHA1
+Key: f4b7327bba32a6d81bdea92bcedec9383520fdd40ad24a4ac94177fe56e8a040
+Command: openssl dgst -hmac f4b7327bba32a6d81bdea92bcedec9383520fdd40ad24a4ac94177fe56e8a040 -sha1 textfile.txt
+HMAC: b214042d655b2dcb5b90a18f010b358868c969b9
+Key Size Requirement in HMAC
+In HMAC, there is no strict requirement for a key size. The key length can vary, but it is generally recommended to use keys of sufficient length to provide security against brute-force attacks. Common key lengths for HMAC are 128 bits (16 bytes) or higher.
+
+Conclusion
+HMAC does not impose a fixed key size, allowing flexibility in choosing key lengths based on security requirements. The provided HMAC values were generated using a 256-bit (32-byte) key for demonstration purposes. Different key lengths can be used depending on the desired level of security and the cryptographic hash function being used.
+
+By using HMAC with appropriate key lengths, data integrity and authenticity can be ensured in cryptographic applications.

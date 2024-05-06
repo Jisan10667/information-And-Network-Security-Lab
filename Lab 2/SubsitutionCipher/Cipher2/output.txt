@@ -1,0 +1,127 @@
+--------- cipher letter Frequency ----------
+a  3.03814 %
+b  0.26 %
+c  6.59 %
+d  1.87 %
+e  4.59 %
+g  1.81 %
+h  7.30 %
+j  4.78 %
+k  8.53 %
+l  6.27 %
+m  6.14 %
+n  2.39 %
+o  8.47 %
+p  1.42 %
+q  2.71 %
+r  0.45 %
+s  2.46 %
+t  2.20 %
+u  12.80 %
+v  5.49 %
+w  2.46 %
+y  1.81 %
+z  6.14 %
+--------- plain letter Frequency ----------
+Plain letter Frequency ---
+a  8.05 %
+Plain letter Frequency ---
+b  1.67 %
+Plain letter Frequency ---
+c  2.23 %
+Plain letter Frequency ---
+d  5.10 %
+Plain letter Frequency ---
+e  12.22 %
+Plain letter Frequency ---
+f  2.14 %
+Plain letter Frequency ---
+g  2.30 %
+Plain letter Frequency ---
+h  6.62 %
+Plain letter Frequency ---
+i  6.28 %
+Plain letter Frequency ---
+j  0.19 %
+Plain letter Frequency ---
+k  0.95 %
+Plain letter Frequency ---
+l  4.08 %
+Plain letter Frequency ---
+m  2.33 %
+Plain letter Frequency ---
+n  6.95 %
+Plain letter Frequency ---
+o  7.63 %
+Plain letter Frequency ---
+p  1.66 %
+Plain letter Frequency ---
+q  0.06 %
+Plain letter Frequency ---
+r  5.29 %
+Plain letter Frequency ---
+s  6.02 %
+Plain letter Frequency ---
+t  9.67 %
+Plain letter Frequency ---
+u  2.92 %
+Plain letter Frequency ---
+v  0.82 %
+Plain letter Frequency ---
+w  2.60 %
+Plain letter Frequency ---
+x  0.11 %
+Plain letter Frequency ---
+y  2.04 %
+Plain letter Frequency ---
+z  0.06 %
+--------- frequency compare ----------
+mapped - a -> B
+mapped - b -> X
+mapped - c -> I
+mapped - d -> C
+mapped - e -> L
+mapped - f -> N
+mapped - g -> Y
+mapped - h -> O
+mapped - i -> E
+mapped - j -> D
+mapped - k -> T
+mapped - l -> H
+mapped - m -> N
+mapped - n -> G
+mapped - o -> A
+mapped - p -> V
+mapped - q -> U
+mapped - r -> K
+mapped - s -> F
+mapped - t -> W
+mapped - u -> E
+mapped - v -> R
+mapped - w -> M
+mapped - x -> P
+mapped - y -> P
+mapped - z -> S
+--------- Decoding ----------
+BILBO WAS VERY RICH AND VERY PECULIAR, AND HAD BEEN THE WONDER OF THE SHIRE FOR
+SIXTY YEARS, EVER SINCE HIS REMARKABLE DISAPPEARANCE AND UNEXPECTED RETURN. THE
+RICHES HE HAD BROUGHT BACK FROM HIS TRAVELS HAD NOW BECOME A LOCAL LEGEND, AND IT WAS
+POPULARLY BELIEVED, WHATEVER THE OLD FOLK MIGHT SAY, THAT THE HILL AT BAG END WAS FULL OF
+TUNNELS STUFFED WITH TREASURE. AND IF THAT WAS NOT ENOUGH FOR FAME, THERE WAS ALSO HIS
+PROLONGED VIGOUR TO MARVEL AT. TIME WORE ON, BUT IT SEEMED TO HAVE LITTLE EFFECT ON
+MR. BAGGINS. AT NINETY HE WAS MUCH THE SAME AS AT FIFTY. AT NINETY-NINE THEY BEGAN TO
+CALL HIM WELL-PRESERVED; BUT UNCHANGED WOULD HAVE BEEN NEARER THE MARK. THERE WERE SOME
+THAT SHOOK THEIR HEADS AND THOUGHT THIS WAS TOO MUCH OF A GOOD THING; IT SEEMED UNFAIR THAT
+ANYONE SHOULD POSSESS (APPARENTLY) PERPETUAL YOUTH AS WELL AS (REPUTEDLY)
+INEXHAUSTIBLE WEALTH. IT WILL HAVE TO BE PAID FOR, THEY SAID. IT ISN'T NATURAL, AND TROUBLE
+WILL COME OF IT! BUT SO FAR TROUBLE HAD NOT COME; AND AS MR. BAGGINS WAS GENEROUS WITH
+HIS MONEY, MOST PEOPLE WERE WILLING TO FORGIVE HIM HIS ODDITIES AND HIS GOOD FORTUNE. HE
+REMAINED ON VISITING TERMS WITH HIS RELATIVES (EXCEPT, OF COURSE, THE SACKVILLEBAGGINSES), AND HE HAD MANY DEVOTED ADMIRERS AMONG THE HOBBITS OF POOR AND
+UNIMPORTANT FAMILIES. BUT HE HAD NO CLOSE FRIENDS, UNTIL SOME OF HIS YOUNGER COUSINS
+BEGAN TO GROW UP. THE ELDEST OF THESE, AND BILBO'S FAVOURITE, WAS YOUNG FRODO BAGGINS.
+WHEN BILBO WAS NINETY-NINE HE ADOPTED FRODO AS HIS HEIR, AND BROUGHT HIM TO LIVE AT BAG
+END; AND THE HOPES OF THE SACKVILLE- BAGGINSES WERE FINALLY DASHED. BILBO AND FRODO
+HAPPENED TO HAVE THE SAME BIRTHDAY, SEPTEMBER 22ND. YOU HAD BETTER COME AND LIVE HERE,
+FRODO MY LAD, SAID BILBO ONE DAY; AND THEN WE CAN CELEBRATE OUR BIRTHDAY-PARTIES
+COMFORTABLY TOGETHER. AT THAT TIME FRODO WAS STILL IN HIS TWEENS, AS THE HOBBITS CALLED THE
+IRRESPONSIBLE TWENTIES BETWEEN CHILDHOOD AND COMING OF AGE AT THIRTY-THREE

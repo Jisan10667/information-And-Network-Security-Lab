@@ -1,0 +1,13 @@
+(base) fayjulislammanik@Jisans-MacBook-Air-3 Task6 % openssl rand -hex 32
+
+f4b7327bba32a6d81bdea92bcedec9383520fdd40ad24a4ac94177fe56e8a040
+(base) fayjulislammanik@Jisans-MacBook-Air-3 Task6 % openssl dgst -hmac f4b7327bba32a6d81bdea92bcedec9383520fdd40ad24a4ac94177fe56e8a040 -md5 textfile.txt 
+
+HMAC-MD5(textfile.txt)= 456548758fad3dd35ede4f6c7bf808ca
+(base) fayjulislammanik@Jisans-MacBook-Air-3 Task6 % openssl dgst -hmac f4b7327bba32a6d81bdea92bcedec9383520fdd40ad24a4ac94177fe56e8a040 -sha256 textfile.txt 
+
+HMAC-SHA2-256(textfile.txt)= dccbb773461e2699132d7adcf96c9cb12988f865d196b63cb09409257847a683
+(base) fayjulislammanik@Jisans-MacBook-Air-3 Task6 % openssl dgst -hmac f4b7327bba32a6d81bdea92bcedec9383520fdd40ad24a4ac94177fe56e8a040 -sha1 textfile.txt
+
+HMAC-SHA1(textfile.txt)= b214042d655b2dcb5b90a18f010b358868c969b9
+(base) fayjulislammanik@Jisans-MacBook-Air-3 Task6 % 

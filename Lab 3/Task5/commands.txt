@@ -1,0 +1,9 @@
+(base) fayjulislammanik@Jisans-MacBook-Air-3 Task5 % openssl dgst -md5 textfile.txt
+
+MD5(textfile.txt)= ae03a9da1fbedfa8f8e143404c08f2ea
+(base) fayjulislammanik@Jisans-MacBook-Air-3 Task5 % openssl dgst -sha256 textfile.txt
+
+SHA2-256(textfile.txt)= a650c3f4ec41c556ff153c0a7abce54062e1c380fe38b5912d49144f6c4f338f
+(base) fayjulislammanik@Jisans-MacBook-Air-3 Task5 % openssl dgst -sha512 textfile.txt
+
+SHA2-512(textfile.txt)= bb1c7821de8ecb82786875d5fec1bc0964c1478bfe630d617009f2d500509a6bc7be6f95adb576bef505c93eb145800d61243c338bf82b3a6db841fb30f56ea9
