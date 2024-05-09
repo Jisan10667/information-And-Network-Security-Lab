@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 # Lab 2: Attacking Classic Crypto Systems</p>
 
 ## Lab task 2 (Checkpoint 1)
@@ -405,6 +410,8 @@ HAPPENED TO SELDON HIMSELF BEFORE THE MATHEMATICS OF THE FIELD COULD BE COMPLETE
 -AND HOW SLOWLY IT PROCEEDED, AND HOW MOUNTAINOUS THE OBSTACLES--THERE WOULD AT LEAST REMAIN ONE
 GOOD MIND THAT WOULD CONTINUE THE RESEARCH
 
+
+
 ```
 
 ### Solution(Cipher2)
@@ -690,6 +697,9 @@ IRRESPONSIBLE TWENTIES BETWEEN CHILDHOOD AND COMING OF AGE AT THIRTY-THREE
 
 
 
-```
 
-<hr>
+```
+## Question : 
+Which input was easier to break? Explain why?
+## Answer :
+The Second Input was easier to break because the frequency of the characters in the cipher text was more evenly distributed. The frequency of the characters in the cipher text of first Input was more skewed and versatile, very near to real number . Which makes it harder to break First cipher.
